@@ -1,3 +1,4 @@
+![1](https://user-images.githubusercontent.com/109990085/189502132-5bf8ec7e-b92c-4c65-ace6-bf8493b4ff40.png)
 ### Hi there 👋
 <div style="background-color: red; color: purple; width: 600px; height: 600px" >TEST TEXT</div>
 <link href="https://github.com/RomanDelinkevych?tab=repositories">
