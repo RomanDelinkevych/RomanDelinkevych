@@ -1,53 +1,48 @@
-![1](https://user-images.githubusercontent.com/109990085/189502132-5bf8ec7e-b92c-4c65-ace6-bf8493b4ff40.png)
-### Hi there 👋
-<div style="background-color: red; color: purple; width: 600px; height: 600px" >TEST TEXT</div>
-<link href="https://github.com/RomanDelinkevych?tab=repositories">
-<a href="https://github.com/RomanDelinkevych?tab=repositories"></a>
-<h1 style="color: green">Test</h1>
-<h2>Test</h2>
-<h3>Test</h3>
-<h4>Test</h4>
-<h5>Test</h5>
-<h6>Test</h6>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cumque fugit incidunt ipsa nemo. Accusamus culpa cumque delectus dolore eligendi eos impedit laborum molestias nostrum numquam quo, sint velit voluptate.</p>
-
+<img src="halpern_ukraine_hack.gif">
 <hr>
+<hr>
+<h1>:blush:Glad to see you on my GitHub account:blush:</h1>
+<hr>
+<hr>
+<p>Hi! I trying become a frontend developer.</p>
+<p>Watch my [project](https://github.com/RomanDelinkevych?tab=repositories)</p>
+
+
+
+
 
 <table style="border: 1px solid black">
     <thead>
-    <tr style="border: 1px solid black">
-        <th style="border: 1px solid black">1</th>
-        <th style="border: 1px solid greenyellow">1</th>
-        <th style="border: 1px solid red">1</th>
-        <th style="border: 1px solid blue">1</th>
-    </tr>
+        <tr>
+            <th>Contacts</th>
+        </tr>
     </thead>
     <tbody>
-    <tr>
-        <th>2</th>
-        <th>2</th>
-        <th>2</th>
-        <th>2</th>
-    </tr>
+        <tr>
+            <th>Gmail</th>
+            <th>
+                <a href="mailto:delinkevich123@gmail.com">
+                    <img src="img/gmail.png">
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                Instagram
+            </th>
+            <th>
+                <a href="https://www.instagram.com/roman_delinkevych/">
+                    <img src="img/instagram.png">
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>Linkedin</th>
+            <th>
+                <a href="https://www.linkedin.com/in/roman-delinkevych-219635244/">
+                    <img src="img/linkedin.png">
+                </a>
+            </th>
+        </tr>
     </tbody>
-    <img src="https://fruit-time.ua/images/cache/products/5a/yabluko-zelene-grenni-smit-imp__126-500x500.webp">
-    <img src="https://media.newyorker.com/photos/623a1413d2edfd75e5c5c7d5/master/pass/halpern_ukraine_hack.gif">
-
-<a href="https://media.newyorker.com/photos/623a1413d2edfd75e5c5c7d5/master/pass/halpern_ukraine_hack.gif"></a>
-    <a href="https://fruit-time.ua/images/cache/products/5a/yabluko-zelene-grenni-smit-imp__126-500x500.webp">
-        <p>123</p>
-    </a>
 </table>
-<img src="halpern_ukraine_hack.gif">
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
