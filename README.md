@@ -32,6 +32,7 @@
     </tr>
     </tbody>
     <img src="https://fruit-time.ua/images/cache/products/5a/yabluko-zelene-grenni-smit-imp__126-500x500.webp">
+    <img src="https://media.newyorker.com/photos/623a1413d2edfd75e5c5c7d5/master/pass/halpern_ukraine_hack.gif">
 
 <a href="https://media.newyorker.com/photos/623a1413d2edfd75e5c5c7d5/master/pass/halpern_ukraine_hack.gif"></a>
     <a href="https://fruit-time.ua/images/cache/products/5a/yabluko-zelene-grenni-smit-imp__126-500x500.webp">
