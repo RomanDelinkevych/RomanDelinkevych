@@ -30,6 +30,11 @@
         <th>2</th>
     </tr>
     </tbody>
+    <img src="https://fruit-time.ua/images/cache/products/5a/yabluko-zelene-grenni-smit-imp__126-500x500.webp">
+
+    <a href="https://fruit-time.ua/images/cache/products/5a/yabluko-zelene-grenni-smit-imp__126-500x500.webp">
+        <p>123</p>
+    </a>
 </table>
 
 - 🔭 I’m currently working on ...
