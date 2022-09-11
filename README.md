@@ -4,7 +4,7 @@
 
 <hr>
 <p><h3>Hi! I trying become a frontend developer.</h3></p>
-<p>Watch my<a href="https://github.com/RomanDelinkevych?tab=repositories"><h2>-> Projects</h2></a></p>
+<p>Watch my<a href="https://github.com/RomanDelinkevych?tab=repositories"><h2> -> Projects</h2></a></p>
 <br>
 <hr>
 <h2>HTML&CSS</h2>
@@ -75,6 +75,9 @@
             <th>Gmail</th>
             <th>Instagram</th>
             <th>Linkedin</th>
+            <th>Telegram</th>
+            <th>Viber</th>
+            <th>Phone number</th>
         </tr>
         <tr>
             <th>
@@ -90,6 +93,21 @@
             <th>
                 <a href="https://www.linkedin.com/in/roman-delinkevych-219635244/">
                     <img src="img/linkedin.png">
+                </a>
+            </th>
+            <th>
+                <a href="https://t.me/Roman_Delinkevych"></a>
+                    <img src="img/telegram.png">
+                </a>
+            </th>
+            <th>
+                <a href="viber://chat/?number=%2BP380938198554"></a>
+                    <img src="img/viber.png">
+                </a>
+            </th>
+            <th>
+                <a href="tel:+380938198554"></a>
+                    <img src="img/telephone.png">
                 </a>
             </th>
         </tr>
