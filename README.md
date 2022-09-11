@@ -1,11 +1,10 @@
 <img src="Gif/halpern_ukraine_hack.gif">
 <hr>
-<hr>
 <h1>:heart_eyes: Glad to see you on my GitHub account:exclamation: :heart_eyes:</h1>
+
 <hr>
-<hr>
-<p>Hi! I trying become a frontend developer.</p>
-<p>Watch my <h1>-></h1> <a href="https://github.com/RomanDelinkevych?tab=repositories">Projects</a></p>
+<p><h3>Hi! I trying become a frontend developer.</h3></p>
+<p>Watch my<a href="https://github.com/RomanDelinkevych?tab=repositories"><h2>-> Projects</h2></a></p>
 <br>
 <hr>
 <h2>HTML&CSS</h2>
