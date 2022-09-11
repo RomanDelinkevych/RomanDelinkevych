@@ -1,43 +1,93 @@
-<img src="halpern_ukraine_hack.gif">
+<img src="https://media.newyorker.com/photos/623a1413d2edfd75e5c5c7d5/master/pass/halpern_ukraine_hack.gif">
 <hr>
 <hr>
-<h1>:blush:Glad to see you on my GitHub account:blush:</h1>
+<h1>:heart_eyes: Glad to see you on my GitHub account:exclamation: :heart_eyes:</h1>
 <hr>
 <hr>
 <p>Hi! I trying become a frontend developer.</p>
-<p>Watch my [project](https://github.com/RomanDelinkevych?tab=repositories)</p>
-
-
-
-
-
-<table style="border: 1px solid black">
+<p>Watch my <h1>-></h1> <a href="https://github.com/RomanDelinkevych?tab=repositories">Projects</a></p>
+<br>
+<hr>
+<h2>HTML&CSS</h2>
+<hr>
+<table>
     <thead>
         <tr>
-            <th>Contacts</th>
+            <th>My SV</th>
+            <th>:boom::smiling_imp:Will be soon:exclamation::smiling_imp::boom:</th>
+            <th>:boom::smiling_imp:Will be soon:exclamation::smiling_imp::boom:</th>
+            <th>:boom::smiling_imp:Will be soon:exclamation::smiling_imp::boom:</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <th>
+                <a href="https://romandelinkevych.github.io/SV/">
+                    <img src="img/SV.png">
+                </a>
+            </th>
+            <th>:boom::smiling_imp:Will be soon:exclamation::smiling_imp::boom:</th>
+            <th>:boom::smiling_imp:Will be soon:exclamation::smiling_imp::boom:</th>
+            <th>:boom::smiling_imp:Will be soon:exclamation::smiling_imp::boom:</th>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<hr>
+<h2>HTML&CSS + JavaScript</h2>
+<hr>
+<table>
+    <thead>
+        <tr>
+            <th>:heavy_check_mark::heavy_check_mark::heavy_check_mark:To do list :date:</th>
+            <th>:iphone: Calculator in :four: rows JS</th>
+            <th>:snowflake: Weather :zap:</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>
+                <a href="https://romandelinkevych.github.io/To-do-list/">
+                    <img src="img/toDoList.png">
+                </a>
+            </th>
+            <th>
+                <a href="https://romandelinkevych.github.io/Calculator-in-4-rows-JS/">
+                    <img src="img/calculator.webp">
+                </a>
+            </th>
+            <th>
+                <a href="https://romandelinkevych.github.io/Weather/">
+                    <img src="img/weather.png">
+                </a>
+            </th>
+            <th></th>
+        </tr>
+    </tbody>
+</table>
+
+
+<table>
+    <tbody>
+        <tr>
             <th>Gmail</th>
+            <th>Instagram</th>
+            <th>Linkedin</th>
+        </tr>
+        <tr>
             <th>
                 <a href="mailto:delinkevich123@gmail.com">
                     <img src="img/gmail.png">
                 </a>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                Instagram
             </th>
             <th>
                 <a href="https://www.instagram.com/roman_delinkevych/">
                     <img src="img/instagram.png">
                 </a>
             </th>
-        </tr>
-        <tr>
-            <th>Linkedin</th>
             <th>
                 <a href="https://www.linkedin.com/in/roman-delinkevych-219635244/">
                     <img src="img/linkedin.png">
