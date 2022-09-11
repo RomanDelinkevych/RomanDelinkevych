@@ -1,4 +1,4 @@
-<img src="https://media.newyorker.com/photos/623a1413d2edfd75e5c5c7d5/master/pass/halpern_ukraine_hack.gif">
+<img src="Gif/halpern_ukraine_hack.gif">
 <hr>
 <hr>
 <h1>:heart_eyes: Glad to see you on my GitHub account:exclamation: :heart_eyes:</h1>
