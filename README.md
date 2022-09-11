@@ -23,7 +23,7 @@
         <tr>
             <th>
                 <a href="https://romandelinkevych.github.io/SV/">
-                    <img src="img/SV.png">
+                    <img src="img/SV.jpg">
                 </a>
             </th>
             <th>:boom::smiling_imp:Will be soon:exclamation::smiling_imp::boom:</th>
