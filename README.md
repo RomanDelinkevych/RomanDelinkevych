@@ -1,9 +1,49 @@
-<img src="Gif/halpern_ukraine_hack.gif">
-<hr>
-<h1>:heart_eyes: Glad to see you on my GitHub account:exclamation: :heart_eyes:</h1>
+<a>
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=_000000&animation=fadeIn&height=300&section=header&text=Glad%20to%20see%20you%20on%20my%20GitHub%20account&fontSize=45&fontAlignY=35&fontColor=9645f4" />
+</a>
 
+<a>
+    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=midnight-purple&font=Redressed&animation=Grow-out-in&quoteCategory=programming">
+</a>
+
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9645F4&background=000000&center=true&vCenter=true&width=800&lines=Hi!+I+am+a+frontend+developer.">
+</a>
 <hr>
-<p><h3>Hi! I trying become a frontend developer.</h3></p>
+<table>
+    <thead>
+        <tr style="align: center">Statistics</tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>
+                <a>
+                    <img src="https://github-readme-stats.vercel.app/api?username=RomanDelinkevych&count_private=true&show_icons=true&theme=midnight-purple&border_radius=50">
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <a>
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanDelinkevych&count_private=true&show_icons=true&theme=midnight-purple&border_radius=50">
+                </a>
+            </th>
+            <th>
+                <a>
+                    <img src="https://github-readme-streak-stats.herokuapp.com?user=RomanDelinkevych&theme=midnight-purple&hide_border=true&border_radius=50&dates=7F3CD5">
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <a>
+                    <img src="https://profile-counter.glitch.me/RomanDelinkevych/count.svg">
+                </a>
+            </th>
+        </tr>
+    </tbody>
+</table>
+
 <p>Watch my<a href="https://github.com/RomanDelinkevych?tab=repositories"><h2> -> Projects</h2></a></p>
 <br>
 <hr>
@@ -69,7 +109,7 @@
 </table>
 
 
-<table>
+<table align="center">
     <tbody>
         <tr>
             <th>Gmail</th>
@@ -96,20 +136,37 @@
                 </a>
             </th>
             <th>
-                <a href="https://t.me/Roman_Delinkevych"></a>
+                <a href="https://t.me/Roman_Delinkevych">
                     <img src="img/telegram.png">
                 </a>
             </th>
             <th>
-                <a href="viber://chat/?number=%2BP380938198554"></a>
+                <a href="viber://chat?number=%2B380938198554">
                     <img src="img/viber.png">
                 </a>
             </th>
             <th>
-                <a href="tel:+380938198554"></a>
+                <a href="tel: 0938198554">
                     <img src="img/telephone.png">
                 </a>
             </th>
         </tr>
     </tbody>
 </table>
+
+<p>Stats</p>
+<hr>
+
+<hr>
+
+<hr>
+
+<hr>
+
+<hr>
+<a>
+    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.introduction.svg">
+</a>
+<hr>
+
+<hr>
