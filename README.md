@@ -1,15 +1,16 @@
 <a>
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=_000000&animation=fadeIn&height=300&section=header&text=Glad%20to%20see%20you%20on%20my%20GitHub%20account&fontSize=45&fontAlignY=35&fontColor=9645f4" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=300&section=header&text=Glad%20to%20see%20you%20on%20my%20GitHub%20account&fontSize=45&fontAlignY=35&fontColor=9645f4" />
 </a>
 
 <a>
     <img src="https://github-readme-quotes.herokuapp.com/quote?theme=midnight-purple&font=Redressed&animation=Grow-out-in&quoteCategory=programming">
 </a>
-
+<hr>
 <a>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9645F4&background=000000&center=true&vCenter=true&width=800&lines=Hi!+I+am+a+frontend+developer.">
 </a>
-<hr>
+
+
 <table>
     <thead>
         <tr style="align: center">Statistics</tr>
@@ -25,17 +26,20 @@
         <tr>
             <th>
                 <a>
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanDelinkevych&count_private=true&show_icons=true&theme=midnight-purple&border_radius=50">
-                </a>
-            </th>
-            <th>
-                <a>
                     <img src="https://github-readme-streak-stats.herokuapp.com?user=RomanDelinkevych&theme=midnight-purple&hide_border=true&border_radius=50&dates=7F3CD5">
                 </a>
             </th>
         </tr>
         <tr>
             <th>
+                <a>
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanDelinkevych&count_private=true&show_icons=true&theme=midnight-purple&border_radius=50">
+                </a>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <p>Page viewers</p>
                 <a>
                     <img src="https://profile-counter.glitch.me/RomanDelinkevych/count.svg">
                 </a>
@@ -46,9 +50,13 @@
 
 <p>Watch my<a href="https://github.com/RomanDelinkevych?tab=repositories"><h2> -> Projects</h2></a></p>
 <br>
-<hr>
-<h2>HTML&CSS</h2>
-<hr>
+
+
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9645F4&background=000000&center=true&vCenter=true&width=800&lines=HTML%26CSS" alt="Typing SVG" />
+</a>
+
 <table>
     <thead>
         <tr>
@@ -74,9 +82,12 @@
 
 <br>
 
-<hr>
-<h2>HTML&CSS + JavaScript</h2>
-<hr>
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9645F4&background=000000&center=true&vCenter=true&width=800&lines=HTML%26CSS+%2B+JavaScript" alt="Typing SVG" />
+</a>
+
+
 <table>
     <thead>
         <tr>
@@ -153,20 +164,3 @@
         </tr>
     </tbody>
 </table>
-
-<p>Stats</p>
-<hr>
-
-<hr>
-
-<hr>
-
-<hr>
-
-<hr>
-<a>
-    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.introduction.svg">
-</a>
-<hr>
-
-<hr>
